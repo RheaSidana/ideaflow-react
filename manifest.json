@@ -1,0 +1,25 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "https://uploads-ssl.webflow.com/5ef95ae22a251e0c9030800e/5f20e0b16e72ac8f0e264715_Webclip.jpg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://uploads-ssl.webflow.com/5ef95ae22a251e0c9030800e/5f20e0b16e72ac8f0e264715_Webclip.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://uploads-ssl.webflow.com/5ef95ae22a251e0c9030800e/5f20e0b16e72ac8f0e264715_Webclip.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

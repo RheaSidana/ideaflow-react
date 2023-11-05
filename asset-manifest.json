@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ideaflow/static/css/main.0fbe65c7.css",
+    "main.js": "/ideaflow/static/js/main.178deec4.js",
+    "static/js/496.c5608490.chunk.js": "/ideaflow/static/js/496.c5608490.chunk.js",
+    "static/media/mission.gif": "/ideaflow/static/media/mission.f07471bb3b41826fe4b5.gif",
+    "index.html": "/ideaflow/index.html",
+    "main.0fbe65c7.css.map": "/ideaflow/static/css/main.0fbe65c7.css.map",
+    "main.178deec4.js.map": "/ideaflow/static/js/main.178deec4.js.map",
+    "496.c5608490.chunk.js.map": "/ideaflow/static/js/496.c5608490.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fbe65c7.css",
+    "static/js/main.178deec4.js"
+  ]
+}
